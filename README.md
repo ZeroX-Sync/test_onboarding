@@ -24,3 +24,7 @@ Feature C
 Feature A
 Feature B
 Feature C
+
+## Features for test_onboarding_package:
+Feature A
+Feature B
